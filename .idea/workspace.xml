@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6b2c8ff2-49e8-4be4-b5a0-4a416a599c21" name="Changes" comment="add 9" />
+    <list default="true" id="6b2c8ff2-49e8-4be4-b5a0-4a416a599c21" name="Changes" comment="add 10" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -62,7 +62,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1743176068126</updated>
-      <workItem from="1743176069334" duration="6825000" />
+      <workItem from="1743176069334" duration="7598000" />
     </task>
     <task id="LOCAL-00001" summary="add first">
       <option name="closed" value="true" />
@@ -160,7 +160,23 @@
       <option name="project" value="LOCAL" />
       <updated>1743183240785</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="add 10">
+      <option name="closed" value="true" />
+      <created>1743185162813</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1743185162813</updated>
+    </task>
+    <task id="LOCAL-00014" summary="add 10">
+      <option name="closed" value="true" />
+      <created>1743185169311</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1743185169311</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -175,6 +191,7 @@
     <MESSAGE value="add 7" />
     <MESSAGE value="add 8" />
     <MESSAGE value="add 9" />
-    <option name="LAST_COMMIT_MESSAGE" value="add 9" />
+    <MESSAGE value="add 10" />
+    <option name="LAST_COMMIT_MESSAGE" value="add 10" />
   </component>
 </project>
