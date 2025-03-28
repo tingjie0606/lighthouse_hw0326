@@ -113,12 +113,10 @@ ol {
 }
 
 p {
-     margin: 0px;
-     padding: 0;
+     color: #222222; /* 深化文字顏色以提高對比度 */
      font-weight: 400;
      font-size: 17px;
      line-height: 28px;
-     color: #333333; 
 }
 
 a {
@@ -371,7 +369,7 @@ ul.email li a i {
 /** banner_main **/
 
 .banner_main {
-     background-image: url('../images/banner2.jpg');
+     background-image: url('../images/banner2.webp');
      width: 100%;
      background-size: cover;
      padding-top: 110px;
@@ -494,12 +492,12 @@ ul.email li a i {
 /* our_mics */
 
 .our_mics {
-     background: #f5f5f5; /* 提高背景亮度 */
+     background: #ffffff; /* 改為純白背景以提高對比度 */
      padding: 80px 0 40px 0;
 }
 
 .our_mics .titlepage p {
-     color: #b5b1b1;
+     color: #444444; /* 深化文字顏色以提高對比度 */
 }
 
 .mics {
@@ -721,7 +719,7 @@ ul.email li a i {
      position: absolute;
      content: "";
      width: 100%;
-     background: url(../images/footer.jpg);
+     background: url(../images/footer.webp);
      height: 251px;
      top: -115px;
      background-size: 100% 100%;
